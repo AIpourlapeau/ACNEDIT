@@ -49,7 +49,7 @@ You can download the generated images for the `severe` and `very severe` classes
 
 ## 📄 Citation
 This research is supported by [Torus AI](https://torus.ai) and [BelleTorus Corporation](https://belle.ai).
-If you use these images in your research, please cite our paper: ACNEDIT: Acne Creation and Non-Destructive Editing with Dynamic Intensity Tuning using Deep Learning on Facial Images for Dermatological Application. To be presented at DGM4MICCAI.
+If you use these images in your research, please cite our paper: Piat, G. et al. (2026). ACNEDIT: Acne Creation and Non-Destructive Editing with Dynamic Intensity Tuning Using Deep Learning on Facial Images for Dermatological Application. In: Mukhopadhyay, A., Oksuz, I., Engelhardt, S., Mehrof, D., Yuan, Y. (eds) Deep Generative Models. DGM4MICCAI 2025. Lecture Notes in Computer Science, vol 16128. Springer, Cham. https://doi.org/10.1007/978-3-032-05472-2_10
 
 
 We also thank Wu et al. for providing the ACNE04 dataset, which served as a foundation for this work. 
