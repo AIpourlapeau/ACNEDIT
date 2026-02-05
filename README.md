@@ -48,7 +48,7 @@ You can download the generated images for the `severe` and `very severe` classes
 - Images are in `.jpg` format and organized by severity label (`levle2_generated/` and `levle3_generated/` folders).
 
 ## 📄 Citation
-This research is supported by [Torus AI](https://torus.ai) and [BelleTorus Corporation](https://belle.ai).
+This research is supported by Belle.ai and Torus.ai.
 If you use these images in your research, please cite our paper: Piat, G. et al. (2026). ACNEDIT: Acne Creation and Non-Destructive Editing with Dynamic Intensity Tuning Using Deep Learning on Facial Images for Dermatological Application. In: Mukhopadhyay, A., Oksuz, I., Engelhardt, S., Mehrof, D., Yuan, Y. (eds) Deep Generative Models. DGM4MICCAI 2025. Lecture Notes in Computer Science, vol 16128. Springer, Cham. https://doi.org/10.1007/978-3-032-05472-2_10
 
 
